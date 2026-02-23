@@ -2,7 +2,7 @@
 
 ## Документация
 
-- [Отчёт о проведённом тестировании](https://github.com/DmitriyRonMan/QA-51_Diplom/blob/main/docs/Report.md)
+- [Отчёт о проведённом тестировании](https://github.com/DmitriyRonMan/automatedTestsForStack/blob/main/docs/Report.md)
 
 ## Начало работы
 
